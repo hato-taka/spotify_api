@@ -1,8 +1,3 @@
-"""
-https://accounts.spotify.com/authorize?client_id=0059bb917295446eb6a073fb01e614b3&response_type=code&redirect_uri=http://localhost:8888/callback&scope=user-read-recently-played
-http://localhost:8888/callback?code=AQD43nCDKOOWoUjWOx6bAiGO8eoDGD7-cthXUQPmNeZgoKoIv468is--H-QivO_ICivTBOeaoiot0DhmVznyIjgu-IfPoHKSRg7uOyamyYipE2xpllOetwjJtlFUlwE0PoEgo9BqIL8XbXiKDBFCd1X5RPQw_pRDFbswOxBJngYR4oftO-XNqfMc9geEeMDlQoK_l-JK-1jtsad6-A
-"""
-
 import requests
 import base64
 from dotenv import load_dotenv
